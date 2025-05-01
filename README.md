@@ -1,3 +1,5 @@
+We only developed the agent and the logic inside our_agent.cpp and our_agent.h the rest was given by our proffessor
+
 Isolation Game Agent (C++) - Center Seeking & Opponent Blocking
 This repository contains a C++ implementation of an agent that plays the game of Isolation. The agent employs a strategy that combines center-seeking behavior with opponent blocking to maximize its chances of winning.
 
